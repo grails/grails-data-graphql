@@ -1,11 +1,2 @@
 # Gorm GraphQL
-## An automatic GraphQL schema generator for GORM
-
-[![Java CI](https://github.com/grails/gorm-graphql/actions/workflows/gradle.yml/badge.svg)](https://github.com/grails/gorm-graphql/actions/workflows/gradle.yml)
-
-Current documentation https://grails.github.io/gorm-graphql/latest/guide/index.html
-
-
-### Dependencies
-
-- [Graphql Java](https://github.com/graphql-java/graphql-java)
+grails-data-graphql (aka gorm-graphql) has been moved to grails-data-mapping as of 5.0.x per https://github.com/grails/grails-data-mapping/pull/1884
